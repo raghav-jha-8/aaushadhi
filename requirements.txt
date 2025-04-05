@@ -9,6 +9,7 @@ cycler==0.12.1
 Flask==3.0.3
 flatbuffers==24.3.25
 fonttools==4.55.2
+gunicorn==21.2.0
 itsdangerous==2.2.0
 jax==0.4.35
 jaxlib==0.4.35
